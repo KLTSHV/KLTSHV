@@ -22,8 +22,6 @@
 **Wildberries Techschool Golang course**
 - Studying Golang
 
----
-
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -37,7 +35,6 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" />
 </p>
----
 
 ## 🚀 Projects
 
