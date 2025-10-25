@@ -51,7 +51,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KLTSHV&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide=makefile,shell,d,cmake&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&hide=makefile,shell,d,cmake&theme=tokyonight" height="165">
 </p>
 
 <p align="center">
