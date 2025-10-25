@@ -15,7 +15,6 @@
 ## 🎓 Education
 
 **RTU MIREA — University of Technology (Computer Science)**  
-Projects course 03, Skills development 04  
 
 **Yandex Summer School** 
 - Developed and tested microservices in **C++**
@@ -27,11 +26,8 @@ Projects course 03, Skills development 04
 
 ## 💼 Experience & Interests
 
-- 💻 Writing and using **C/C++**, **Go**
+- 💻 Writing and using  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
 - 🧠 Interested in backend development and scalable systems
-- ⚙️ Tools & technologies I use daily:  
-  **Jira**, **Agile**, **SQL**, **PostgreSQL**, **Git**, **Qt**, **Userver**,  
-  **Python**, **Prometheus**, **Grafana**, **Linux**, **Docker**
 
 ---
 
