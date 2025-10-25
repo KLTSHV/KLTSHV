@@ -16,8 +16,10 @@
 
 **RTU MIREA — University of Technology (Computer Science)**  
 Projects course 03, Skills development 04  
+
 **Yandex Summer School** 
 - Developed and tested microservices in **C++**
+
 **Wildberries Techschool Golang course**
 - Studying Golang
 
