@@ -69,7 +69,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLTSHV&theme=tokyonight&bg_color=572944&title_color=513550&text_color=B8EEF6&icon_color=DA9196" width="800" />
   </p>
 <h3 align="left">Connect with Me</h3>
-** 🌍 Connect with Me **
 <p align="center">
   <a href="mailto:koltyshev.egor@yandex.ru"><img src="https://img.shields.io/badge/Email-B8EEF6?style=for-the-badge&logo=gmail&logoColor=572944" /></a>
   <a href="https://t.me/kltshv"><img src="https://img.shields.io/badge/Telegram-B8EEF6?style=for-the-badge&logo=telegram&logoColor=572944" /></a>
