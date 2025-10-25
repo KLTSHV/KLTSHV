@@ -4,18 +4,12 @@
   <img src="header.jpg" alt="header" width="100%" />
 </p>
 <p align="center">
-  <a href="mailto:email@example.com">
-    <img src="https://img.shields.io/badge/Email-B8EEF6?style=for-the-badge&logo=gmail&logoColor=572944" />
-  </a>
-  <a href="https://t.me/yourhandle">
-    <img src="https://img.shields.io/badge/Telegram-B8EEF6?style=for-the-badge&logo=telegram&logoColor=572944" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
-    <img src="https://img.shields.io/badge/LinkedIn-B8EEF6?style=for-the-badge&logo=linkedin&logoColor=572944" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-B8EEF6?style=for-the-badge&logo=twitter&logoColor=572944" />
-  </a>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=KLTSHV&show_icons=true&theme=default&hide_border=true&bg_color=572944&text_color=B8EEF6&icon_color=DA9196&title_color=DA9196" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&theme=default&hide_border=true&bg_color=572944&text_color=B8EEF6&title_color=DA9196&hide=makefile,shell,d,cmake" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=KLTSHV&theme=react-dark&hide_border=true&area=true&color=B8EEF6&line=DA9196&point=513550" width="800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLTSHV&theme=default&bg_color=572944&title_color=513550&text_color=B8EEF6&icon_color=DA9196" width="800" />
+  
 </p>
 
 
@@ -76,6 +70,6 @@
 ## 🌍 Connect with Me
 
 <p align="center">
-  <a href="mailto:koltyshev.egor@yandex.ru"><img src="https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/kltshv"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
+  <a href="mailto:koltyshev.egor@yandex.ru"><img src="https://img.shields.io/badge/Email-B8EEF6?style=for-the-badge&logo=gmail&logoColor=572944" /></a>
+  <a href="https://t.me/kltshv"><img src="https://img.shields.io/badge/Telegram-B8EEF6?style=for-the-badge&logo=telegram&logoColor=572944" /></a>
 </p>
