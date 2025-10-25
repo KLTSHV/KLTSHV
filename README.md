@@ -1,7 +1,7 @@
 
 <!-- ==================== HEADER / BACKGROUND IMAGE ==================== -->
 <p align="center">
-  <img src="header.jpg" alt="header" width="100%" />
+  <img src="header.gif" alt="header" width="100%" />
 </p>
 <p align="center">
 
