@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&hide=makefile,shell,d,cmake&theme=tokyonight" width="400" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLTSHV&theme=tokyonight" width="700" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLTSHV&theme=tokyonight" width="600" />
 </p>
 
 
