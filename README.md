@@ -4,9 +4,10 @@
   <img src="header.jpg" alt="header" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KLTSHV&show_icons=true&theme=default&bg_color=572944&text_color=B8EEF6&icon_color=DA9196&title_color=DA9196" width="400" style="height:300px; object-fit:cover;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&bg_color=572944&text_color=B8EEF6&title_color=DA9196&hide=makefile,shell,d,cmake" width="400" style="height:300px; object-fit:cover;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KLTSHV&show_icons=true&theme=default&hide_border=true&bg_color=572944&text_color=B8EEF6&icon_color=DA9196&title_color=DA9196" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&theme=default&hide_border=true&bg_color=572944&text_color=B8EEF6&title_color=DA9196&hide=makefile,shell,d,cmake" />
 </p>
+
 
 
 <!-- ==================== INTRO ==================== -->
