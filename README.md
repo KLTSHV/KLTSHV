@@ -24,11 +24,19 @@
 
 ---
 
-## 💼 Experience & Interests
+## 🧰 Tech Stack
 
-- 💻 Writing and using  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-- 🧠 Interested in backend development and scalable systems
-
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" />
+</p>
 ---
 
 ## 🚀 Projects
@@ -53,21 +61,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLTSHV&theme=tokyonight">
 </p>
 
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" />
-</p>
 
 ---
 
