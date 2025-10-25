@@ -4,7 +4,18 @@
   <img src="header.jpg" alt="header" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&theme=default&hide_border=true&bg_color=572944&text_color=B8EEF6&title_color=DA9196&hide=makefile,shell,d,cmake" />
+  <a href="mailto:email@example.com">
+    <img src="https://img.shields.io/badge/Email-B8EEF6?style=for-the-badge&logo=gmail&logoColor=572944" />
+  </a>
+  <a href="https://t.me/yourhandle">
+    <img src="https://img.shields.io/badge/Telegram-B8EEF6?style=for-the-badge&logo=telegram&logoColor=572944" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_PROFILE">
+    <img src="https://img.shields.io/badge/LinkedIn-B8EEF6?style=for-the-badge&logo=linkedin&logoColor=572944" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-B8EEF6?style=for-the-badge&logo=twitter&logoColor=572944" />
+  </a>
 </p>
 
 
