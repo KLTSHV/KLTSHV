@@ -1,6 +1,6 @@
 <!-- ==================== HEADER / BACKGROUND IMAGE ==================== -->
 <p align="center">
-  <img src="assets/header.jpg" alt="header" width="100%" />
+  <img src="header.jpg" alt="header" width="100%" />
 </p>
 
 <!-- ==================== INTRO ==================== -->
