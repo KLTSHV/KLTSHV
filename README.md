@@ -7,8 +7,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=KLTSHV&show_icons=true&theme=default&hide_border=true&bg_color=572944&text_color=B8EEF6&icon_color=DA9196&title_color=DA9196" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&theme=default&hide_border=true&bg_color=572944&text_color=B8EEF6&title_color=DA9196&hide=makefile,shell,d,cmake" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLTSHV&theme=tokyonight&bg_color=572944&title_color=513550&text_color=B8EEF6&icon_color=DA9196" width="800" />
 </p>
 
 
@@ -69,6 +67,8 @@
 ## 🌍 Connect with Me
 
 <p align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLTSHV&theme=tokyonight&bg_color=572944&title_color=513550&text_color=B8EEF6&icon_color=DA9196" width="800" />
   <a href="mailto:koltyshev.egor@yandex.ru"><img src="https://img.shields.io/badge/Email-B8EEF6?style=for-the-badge&logo=gmail&logoColor=572944" /></a>
   <a href="https://t.me/kltshv"><img src="https://img.shields.io/badge/Telegram-B8EEF6?style=for-the-badge&logo=telegram&logoColor=572944" /></a>
 </p>
