@@ -4,9 +4,10 @@
   <img src="header.jpg" alt="header" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&hide=makefile,shell,d,cmake&theme=tokyonight" width="400" height="180">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLTSHV&theme=tokyonight width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&hide=makefile,shell,d,cmake&theme=tokyonight" width="400" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLTSHV&theme=tokyonight" width="400" />
 </p>
+
 
 <!-- ==================== INTRO ==================== -->
 <h1 align="center">🫱🏼 Hi, I'm Egor Koltyshev</h1>
