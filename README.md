@@ -7,7 +7,6 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=KLTSHV&show_icons=true&theme=default&hide_border=true&bg_color=572944&text_color=B8EEF6&icon_color=DA9196&title_color=DA9196" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&theme=default&hide_border=true&bg_color=572944&text_color=B8EEF6&title_color=DA9196&hide=makefile,shell,d,cmake" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=KLTSHV&theme=react-dark&hide_border=true&area=true&color=B8EEF6&line=DA9196&point=513550" width="800" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLTSHV&theme=default&bg_color=572944&title_color=513550&text_color=B8EEF6&icon_color=DA9196" width="800" />
   
 </p>
