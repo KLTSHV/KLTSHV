@@ -7,7 +7,7 @@
 <h1 align="center">🫱🏼 Hi, I'm Egor Koltyshev</h1>
 <p align="center">
   <b>Computer Science student at RTU MIREA</b><br>
-  Passionate about backend systems, algorithms, and clean architecture.
+  Backend Developer
 </p>
 
 ---
@@ -89,14 +89,4 @@ Projects course 03, Skills development 04
 <p align="center">
   <a href="mailto:koltyshev.egor@yandex.ru"><img src="https://img.shields.io/badge/Email-0078D4?logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/kltshv"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" /></a>
-</p>
-
----
-
-### 🖼️ Optional: Gallery or header background
-```md
-<p align="center">
-  <img src="assets/photo1.jpg" width="250" />
-  <img src="assets/photo2.jpg" width="250" />
-  <img src="assets/photo3.jpg" width="250" />
 </p>
