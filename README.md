@@ -1,10 +1,10 @@
 <!-- ==================== HEADER / BACKGROUND IMAGE ==================== -->
 <p align="center">
-  <img src="assets/header.png" alt="header" width="100%" />
+  <img src="assets/header.jpg" alt="header" width="100%" />
 </p>
 
 <!-- ==================== INTRO ==================== -->
-<h1 align="center">👋 Hi, I'm Egor Koltyshev</h1>
+<h1 align="center">🫱🏼 Hi, I'm Egor Koltyshev</h1>
 <p align="center">
   <b>Computer Science student at RTU MIREA</b><br>
   Passionate about backend systems, algorithms, and clean architecture.
@@ -37,23 +37,22 @@ Projects course 03, Skills development 04
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [Wriggle](https://github.com/YOUR_USERNAME/wriggle) | A game project built with C++ and SDL | C++, SDL2 |
-| [Microservice Lab](https://github.com/YOUR_USERNAME/microservice-lab) | Microservice testing and monitoring experiment | C++, Docker, Prometheus |
-| [Go Course Repo](https://github.com/YOUR_USERNAME/go-techschool) | Wildberries Techschool Golang course exercises | Go |
+| [Wriggle](https://github.com/KLTSHV/wriggle) | A game project built with C++ and SDL | C++, SDL2 |
+| [Microservice Lab](https://github.com/KLTSHV/microservice-lab) | Microservice testing and monitoring experiment | C++, Docker, Prometheus |
+| [Go Course Repo](https://github.com/KLTSHV/go-techschool) | Wildberries Techschool Golang course exercises | Go |
 
-*(Replace `YOUR_USERNAME` with your actual GitHub username.)*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=KLTSHV&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&theme=tokyonight" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLTSHV&theme=tokyonight">
 </p>
 
 ---
