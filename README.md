@@ -4,8 +4,8 @@
   <img src="header.jpg" alt="header" width="100%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&hide=makefile,shell,d,cmake&theme=tokyonight" width="400" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLTSHV&theme=tokyonight" width="600" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KLTSHV&show_icons=true&theme=default&bg_color=B8EEF6&text_color=572944&icon_color=DA9196&title_color=513550" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KLTSHV&layout=compact&bg_color=B8EEF6&text_color=572944&title_color=513550&hide=makefile,shell,d,cmake" width="400" />
 </p>
 
 
