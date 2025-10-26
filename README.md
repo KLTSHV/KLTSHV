@@ -43,16 +43,6 @@
   <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white" />
 </p>
 
-## 🚀 Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [Wriggle](https://github.com/KLTSHV/wriggle) | A game project built with C++ and SDL | C++, SDL2 |
-| [Microservice Lab](https://github.com/KLTSHV/microservice-lab) | Microservice testing and monitoring experiment | C++, Docker, Prometheus |
-| [Go Course Repo](https://github.com/KLTSHV/go-techschool) | Wildberries Techschool Golang course exercises | Go |
-
----
-
 ## 🧩 Skills Overview
 
 - **Programming Languages:** C++, Go, Python, SQL  
